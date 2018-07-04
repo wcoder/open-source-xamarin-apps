@@ -44,3 +44,9 @@ Jump to
 - [CodeBucket](https://github.com/thedillonb/CodeBucket): Browse & maintain Bitbucket repositories [[iOS](https://itunes.apple.com/app/id551531422)]
 - [CodeHub](https://github.com/CodeHubApp/CodeHub): Browse & maintain GitHub repositories [[iOS](https://itunes.apple.com/app/id707173885)]
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
+
+## Contribute Rules
+
+- Don't do evil.
+- Don't repeat yourself.
+- Use the same template in English
