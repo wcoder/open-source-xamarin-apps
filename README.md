@@ -8,17 +8,34 @@ A collaborative list of open-source Xamarin apps.
 
 Jump to
 
+- [Event](#event)
 - [Media](#media)
+- [Shopping](#shopping)
 - [Timer](#timer)
+- [Health](#health)
+  - [Fitness](#fitness)
 - [Password](#password)
 - [Developer](#developer) 
-  - [Git](#git) 
+  - [Git](#git)
+- [Clones](#clones)
+- [Misc](#misc)
+
+## Event
+
+- [Conference Mobile App](https://github.com/xamarinhq/app-conference): Pre-build conference application [ Forms: UWP, iOS, Android, Backend]
 
 ## Media
 
-[back to top](#readme)
+[back to top](#readme) Image, video, audio, reading:
 
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
+- [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
+
+## Shopping
+
+[back to top](#readme)
+
+- [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
 
 ## Timer
 
@@ -26,12 +43,19 @@ Jump to
 
 - [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker [[iOS](https://itunes.apple.com/tr/app/toggl/id1291898086)]
 
+## Health
+
+### Fitness
+
+[back to top](#readme)
+
+- [My StepCounter](https://github.com/MikeCodesDotNET/My-StepCounter): Simple pedometer [[iOS](https://itunes.apple.com/app/id789817499), [Android](https://play.google.com/store/apps/details?id=com.refractored.mystepcounter)]
+
 ## Password
 
 [back to top](#readme)
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for store, share, and sync sensitive data [ Forms: [iOS](https://itunes.apple.com/app/id1137397744), [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)]
-
 
 ## Developer
 
@@ -44,6 +68,20 @@ Jump to
 - [CodeBucket](https://github.com/thedillonb/CodeBucket): Browse & maintain Bitbucket repositories [[iOS](https://itunes.apple.com/app/id551531422)]
 - [CodeHub](https://github.com/CodeHubApp/CodeHub): Browse & maintain GitHub repositories [[iOS](https://itunes.apple.com/app/id707173885)]
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
+- [GitIt](https://github.com/prajjwaldimri/GithubXamarin): Cross-platform application for GitHub [[UWP](https://www.microsoft.com/store/apps/9nblggh40hv7?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.prajjwal.gitit)]
+
+## Clones
+
+[back to top](#readme)
+
+- [Moments](https://github.com/pierceboggan/Moments): Snapchat clone [ Forms: iOS, Android]
+
+## Misc
+
+[back to top](#readme)
+
+- [MALClient](https://github.com/Drutol/MALClient): Client application for MyAnimeList.net website [[UWP](https://www.microsoft.com/store/apps/9nblggh5f3bl?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.drutol.malclient)]
+- [Acquaint](https://github.com/xamarinhq/app-acquaint): The app is a list of contacts with details and map [ Forms, Native: UWP, iOS, Android]
 
 ## Contribute Rules
 
