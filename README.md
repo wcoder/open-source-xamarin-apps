@@ -3,14 +3,22 @@
 A collaborative list of open-source Xamarin apps.
 
 > If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/wcoder/open-source-xamarin-apps/compare).
+
 > All applications are sorted in various categories.
 
 Jump to
 
+- [Media](#media)
 - [Timer](#timer)
 - [Password](#password)
 - [Developer](#developer) 
   - [Git](#git) 
+
+## Media
+
+[back to top](#readme)
+
+- [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 
 ## Timer
 
