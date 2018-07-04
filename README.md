@@ -15,8 +15,11 @@ Jump to
 - [Health](#health)
   - [Fitness](#fitness)
 - [Password](#password)
+- [Finance](#finance)
+- [Weather](#weather)
 - [Developer](#developer) 
   - [Git](#git)
+- [Sample](#sample)
 - [Clones](#clones)
 - [Misc](#misc)
 
@@ -36,6 +39,7 @@ Jump to
 [back to top](#readme)
 
 - [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
+- [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
 
 ## Timer
 
@@ -57,6 +61,18 @@ Jump to
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for store, share, and sync sensitive data [ Forms: [iOS](https://itunes.apple.com/app/id1137397744), [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)]
 
+## Finance
+
+[back to top](#readme)
+
+- [Money Fox](https://github.com/MoneyFox/MoneyFox): A way to make budgeting easy [ Forms: [UWP](https://www.microsoft.com/store/apps/9nblggh6ck9d), [Android](https://play.google.com/store/apps/details?id=com.applysolutions.moneyfox)]
+
+## Weather
+
+[back to top](#readme)
+
+- [XWeather](https://github.com/colbylwilliams/XWeather): Weather app [[iOS](https://itunes.apple.com/app/id1229497627), Android]
+
 ## Developer
 
 [back to top](#readme)
@@ -70,11 +86,26 @@ Jump to
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
 - [GitIt](https://github.com/prajjwaldimri/GithubXamarin): Cross-platform application for GitHub [[UWP](https://www.microsoft.com/store/apps/9nblggh40hv7?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.prajjwal.gitit)]
 
+## Sample
+
+[back to top](#readme)
+
+- [Conference Vision](https://github.com/Microsoft/ConferenceVision): Prototype reference app showcasing: Xamarin.Forms 3.0, Computer Vision [ Forms: UWP, iOS, Android]
+- [Coffee Cups](https://github.com/jamesmontemagno/app-coffeecups): Azure Mobile Apps and Easy Tables [ Forms: UWP, iOS, Android]
+- [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
+- [Geo Contacts](https://github.com/xamarinhq/app-geocontacts): Azure demo contact list feature Azure AD B2C, Functions, & CosmosDB. [ Forms: iOS, Android]
+- [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
+
 ## Clones
 
 [back to top](#readme)
 
-- [Moments](https://github.com/pierceboggan/Moments): Snapchat clone [ Forms: iOS, Android]
+- [Moments](https://github.com/pierceboggan/Moments): Snapchat [ Forms: iOS, Android]
+- [KickassUI.Spotify](https://github.com/sthewissen/KickassUI.Spotify): Spotify [ Forms: iOS, Android]
+- [Instagram](https://github.com/adamped/Instagram): Instagram [ Forms: UWP, iOS, Android]
+- [FacebookForms](https://github.com/XAM-Consulting/FacebookForms): Facebook [ Forms: UWP, iOS, Android]
+- [KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper): Runkeeper [ Forms: iOS, Android]
+- [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter): Twitter [ Forms: iOS, Android]
 
 ## Misc
 
