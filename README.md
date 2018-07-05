@@ -100,6 +100,7 @@ Jump to
 - [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
 - [Geo Contacts](https://github.com/xamarinhq/app-geocontacts): Azure demo contact list feature Azure AD B2C, Functions, & CosmosDB. [ Forms: iOS, Android]
 - [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
+- [more samples...](https://github.com/xamarin/mobile-samples)
 
 ## Clones
 
