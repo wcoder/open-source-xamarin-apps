@@ -12,6 +12,7 @@ Jump to
 - [Media](#media)
 - [Shopping](#shopping)
 - [Timer](#timer)
+- [Location](#location)
 - [Health](#health)
   - [Fitness](#fitness)
 - [Password](#password)
@@ -51,6 +52,12 @@ Jump to
 [back to top](#readme)
 
 - [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker [[iOS](https://itunes.apple.com/tr/app/toggl/id1291898086)]
+
+## Location
+
+[back to top](#readme)
+
+- [GEO Alarm](https://github.com/foxanna/SimpleLocationAlarm): Alarm based your location [[Android](https://play.google.com/store/apps/details?id=simplelocationalarm.droid), WP]
 
 ## Health
 
