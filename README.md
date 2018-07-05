@@ -11,6 +11,7 @@ Jump to
 - [Event](#event)
 - [Media](#media)
 - [Shopping](#shopping)
+- [Communication](#communication)
 - [Timer](#timer)
 - [Location](#location)
 - [Health](#health)
@@ -46,6 +47,12 @@ Jump to
 
 - [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
 - [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
+
+## Communication
+
+[back to top](#readme)
+
+- [CrossChat](https://github.com/EgorBo/CrossChat-Xamarin.Forms): Chat application [ Forms: iOS, Android, WP, Backend]
 
 ## Timer
 
