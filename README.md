@@ -118,6 +118,7 @@ Jump to
 
 - [MALClient](https://github.com/Drutol/MALClient): Client application for MyAnimeList.net website [[UWP](https://www.microsoft.com/store/apps/9nblggh5f3bl?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.drutol.malclient)]
 - [Acquaint](https://github.com/xamarinhq/app-acquaint): The app is a list of contacts with details and map [ Forms, Native: UWP, iOS, Android]
+- [LiveDisplay](https://github.com/CarlosACepeda/LiveDisplay): Application to control notifications and music directly on the lockscreen. [Android]
 
 ## Contributing
 
