@@ -1,6 +1,6 @@
-# Open-Source Xamarin Apps
+# Open Source Xamarin Apps
 
-A collaborative list of open-source Xamarin apps.
+A collaborative list of open source Xamarin apps.
 
 > If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/wcoder/open-source-xamarin-apps/compare).
 
