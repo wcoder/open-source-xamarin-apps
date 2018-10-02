@@ -8,23 +8,27 @@ A collaborative list of open source Xamarin apps.
 
 Jump to
 
-- [Event](#event)
-- [Media](#media)
-- [Shopping](#shopping)
-- [Communication](#communication)
-- [Timer](#timer)
-- [Location](#location)
-- [Health](#health)
-  - [Fitness](#fitness)
-- [Password](#password)
-- [Finance](#finance)
-- [Weather](#weather)
-- [Reading](#reading)
-- [Developer](#developer) 
-  - [Git](#git)
-- [Sample](#sample)
-- [Clones](#clones)
-- [Misc](#misc)
+- [Open Source Xamarin Apps](#open-source-xamarin-apps)
+  - [Event](#event)
+  - [Media](#media)
+  - [Shopping](#shopping)
+  - [Communication](#communication)
+  - [Timer](#timer)
+  - [Location](#location)
+  - [Health](#health)
+    - [Fitness](#fitness)
+  - [Password](#password)
+  - [Finance](#finance)
+  - [Weather](#weather)
+  - [Reading](#reading)
+  - [Developer](#developer)
+    - [Git](#git)
+  - [Sample](#sample)
+  - [Clones](#clones)
+  - [Misc](#misc)
+  - [Contributing](#contributing)
+  - [Share](#share)
+  - [License](#license)
 
 &nbsp;
 
@@ -135,6 +139,7 @@ Jump to
 - [FacebookForms](https://github.com/XAM-Consulting/FacebookForms): Facebook [ Forms: UWP, iOS, Android]
 - [KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper): Runkeeper [ Forms: iOS, Android]
 - [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter): Twitter [ Forms: iOS, Android]
+- [Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample): Twitter [ Forms: iOS, Android]
 
 ## Misc
 
