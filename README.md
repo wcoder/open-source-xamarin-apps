@@ -19,6 +19,7 @@ Jump to
 - [Password](#password)
 - [Finance](#finance)
 - [Weather](#weather)
+- [Reading](#reading)
 - [Developer](#developer) 
   - [Git](#git)
 - [Sample](#sample)
@@ -91,6 +92,12 @@ Jump to
 [back to top](#readme)
 
 - [XWeather](https://github.com/colbylwilliams/XWeather): Weather app [[iOS](https://itunes.apple.com/app/id1229497627), Android]
+
+## Reading
+
+[back to top](#readme)
+
+- [OneSync Reader](https://github.com/bares43/onesync-reader-app): Weather app [[Android](https://play.google.com/store/apps/details?id=cz.janbares.onesyncreader)]
 
 ## Developer
 
