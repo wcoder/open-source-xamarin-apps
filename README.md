@@ -97,7 +97,7 @@ Jump to
 
 [back to top](#readme)
 
-- [OneSync Reader](https://github.com/bares43/onesync-reader-app): Weather app [[Android](https://play.google.com/store/apps/details?id=cz.janbares.onesyncreader)]
+- [OneSync Reader](https://github.com/bares43/onesync-reader-app): OneSync Reader app [[Android](https://play.google.com/store/apps/details?id=cz.janbares.onesyncreader)]
 
 ## Developer
 
