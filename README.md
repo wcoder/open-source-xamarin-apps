@@ -116,6 +116,7 @@ Jump to
 - [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
 - [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
+- [Cognitive Service](https://github.com/susairajs/XamarinCognitiveService_Vision): Cognitive Service is a sample to analyzing image using Cognitive Service Vision API. [ Forms: iOS, Android]
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
 ## Clones
