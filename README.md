@@ -127,6 +127,7 @@ Jump to
 - [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
 - [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
+- [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
 ## Clones
