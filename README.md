@@ -25,6 +25,7 @@ Jump to
   - [Reading](#reading)
   - [Developer](#developer)
     - [Git](#git)
+  - [Games](#games)
   - [Clones](#clones)
   - [Misc](#misc)
   - [Contributing](#contributing)
@@ -44,7 +45,7 @@ Jump to
 - [SmartHotel360](https://github.com/Microsoft/SmartHotel360-Mobile): In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. [ Forms: UWP, iOS, Android] (Features: NFC, IoT, Maps etc.) + Backend
 - [Tailwind Traders Mobile](https://github.com/Microsoft/TailwindTraders-Mobile): Is a line-of-business application. [ Forms: iOS, Android] (Features: Azure, Camera, ML) + Backend
 
-### Computer Vision
+## Computer Vision
 
 [back to top](#readme)
 
@@ -54,6 +55,7 @@ Jump to
 ## Event
 
 - [Conference Mobile App](https://github.com/xamarinhq/app-conference): Pre-build conference application [ Forms: UWP, iOS, Android, Backend]
+- [DotNetRu App](https://github.com/DotNetRu/App): .NET Russian user-group application [ Forms: [iOS](https://itunes.apple.com/us/app/dotnetru/id1293895734?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.dotnetru.droid)]
 
 ## Media
 
@@ -80,6 +82,7 @@ Jump to
 
 [back to top](#readme)
 
+- [Pomodoro](https://github.com/josearias210/Pomodoro): Simple pomodoro timer [[Android](https://play.google.com/store/apps/details?id=com.ariasantonio.pomodoro)]
 - [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker [[iOS](https://itunes.apple.com/tr/app/toggl/id1291898086)]
 
 ## Location
@@ -126,12 +129,18 @@ Jump to
 
 ### Git 
  
-[back to top](#readme) 
+[back to top](#readme)
 
 - [CodeBucket](https://github.com/thedillonb/CodeBucket): Browse & maintain Bitbucket repositories [[iOS](https://itunes.apple.com/app/id551531422)]
 - [CodeHub](https://github.com/CodeHubApp/CodeHub): Browse & maintain GitHub repositories [[iOS](https://itunes.apple.com/app/id707173885)]
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
 - [GitIt](https://github.com/prajjwaldimri/GithubXamarin): Cross-platform application for GitHub [[UWP](https://www.microsoft.com/store/apps/9nblggh40hv7?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.prajjwal.gitit)]
+
+## Games
+
+[back to top](#readme)
+
+- [TicTacToe](https://github.com/jamesmontemagno/app-tictactoe): Simple Tic-tac-toe game [ Forms: iOS, Android]
 
 ## Clones
 
