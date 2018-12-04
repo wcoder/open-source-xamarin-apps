@@ -9,6 +9,8 @@ A collaborative list of open source Xamarin apps.
 Jump to
 
 - [Open Source Xamarin Apps](#open-source-xamarin-apps)
+  - [Business](#business)
+  - [Computer Vision](#computer-vision)
   - [Event](#event)
   - [Media](#media)
   - [Shopping](#shopping)
@@ -23,7 +25,6 @@ Jump to
   - [Reading](#reading)
   - [Developer](#developer)
     - [Git](#git)
-  - [Sample](#sample)
   - [Clones](#clones)
   - [Misc](#misc)
   - [Contributing](#contributing)
@@ -34,6 +35,21 @@ Jump to
 
 - [Contributing](#contributing)
 - [License](#license)
+
+## Business
+
+[back to top](#readme)
+
+- [BikeSharing360](https://github.com/Microsoft/BikeSharing360_MobileApps): Is a fictitious example of a smart bike sharing system. [ Forms: UWP, Android, iOS, watchOS] + Backend
+- [SmartHotel360](https://github.com/Microsoft/SmartHotel360-Mobile): In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. [ Forms: UWP, iOS, Android] (Features: NFC, IoT, Maps etc.) + Backend
+- [Tailwind Traders Mobile](https://github.com/Microsoft/TailwindTraders-Mobile): Is a line-of-business application. [ Forms: iOS, Android] (Features: Azure, Camera, ML) + Backend
+
+### Computer Vision
+
+[back to top](#readme)
+
+- [Conference Vision](https://github.com/Microsoft/ConferenceVision): Prototype reference app showcasing: Xamarin.Forms 3.0, Computer Vision [ Forms: UWP, iOS, Android]
+- [AI Visual Provision](https://github.com/Microsoft/AIVisualProvision): Application uses Cognitive Services to detect Azure services using the phone camera [ Forms: iOS, Android]
 
 ## Event
 
@@ -58,6 +74,7 @@ Jump to
 [back to top](#readme)
 
 - [CrossChat](https://github.com/EgorBo/CrossChat-Xamarin.Forms): Chat application [ Forms: iOS, Android, WP, Backend]
+- [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
 
 ## Timer
 
@@ -116,20 +133,6 @@ Jump to
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
 - [GitIt](https://github.com/prajjwaldimri/GithubXamarin): Cross-platform application for GitHub [[UWP](https://www.microsoft.com/store/apps/9nblggh40hv7?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.prajjwal.gitit)]
 
-## Sample
-
-[back to top](#readme)
-
-- [Conference Vision](https://github.com/Microsoft/ConferenceVision): Prototype reference app showcasing: Xamarin.Forms 3.0, Computer Vision [ Forms: UWP, iOS, Android]
-- [Coffee Cups](https://github.com/jamesmontemagno/app-coffeecups): Azure Mobile Apps and Easy Tables [ Forms: UWP, iOS, Android]
-- [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
-- [Geo Contacts](https://github.com/xamarinhq/app-geocontacts): Azure demo contact list feature Azure AD B2C, Functions, & CosmosDB. [ Forms: iOS, Android]
-- [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
-- [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
-- [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
-- [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
-- [more samples...](https://github.com/xamarin/mobile-samples)
-
 ## Clones
 
 [back to top](#readme)
@@ -149,8 +152,14 @@ Jump to
 - [MALClient](https://github.com/Drutol/MALClient): Client application for MyAnimeList.net website [[UWP](https://www.microsoft.com/store/apps/9nblggh5f3bl?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.drutol.malclient)]
 - [Acquaint](https://github.com/xamarinhq/app-acquaint): The app is a list of contacts with details and map [ Forms, Native: UWP, iOS, Android]
 - [LiveDisplay](https://github.com/CarlosACepeda/LiveDisplay): Application to control notifications and music directly on the lockscreen. [Android]
-- [SmartHotel360](https://github.com/Microsoft/SmartHotel360-Mobile): In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. [ Forms: UWP, iOS, Android] (Features: NFC, IoT, Maps etc.)
 - [Workout Wotch](https://github.com/kentcb/WorkoutWotch): Exercise programs dictated to you. [iOS]
+- [Coffee Cups](https://github.com/jamesmontemagno/app-coffeecups): Azure Mobile Apps and Easy Tables [ Forms: UWP, iOS, Android]
+- [Geo Contacts](https://github.com/xamarinhq/app-geocontacts): Azure demo contact list feature Azure AD B2C, Functions, & CosmosDB. [ Forms: iOS, Android]
+- [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
+- [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
+- [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
+- [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
+- [more samples...](https://github.com/xamarin/mobile-samples)
 
 ## Contributing
 
