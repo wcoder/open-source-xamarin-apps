@@ -152,7 +152,7 @@ Jump to
 - [FacebookForms](https://github.com/XAM-Consulting/FacebookForms): Facebook [ Forms: UWP, iOS, Android]
 - [KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper): Runkeeper [ Forms: iOS, Android]
 - [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter): Twitter [ Forms: iOS, Android]
-- [Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample): Twitter [ Forms: iOS, Android]
+- [Xamarin.Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample): Netflix [ Forms: iOS, Android]
 
 ## Misc
 
