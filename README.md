@@ -56,6 +56,7 @@ Jump to
 
 - [Conference Mobile App](https://github.com/xamarinhq/app-conference): Pre-build conference application [ Forms: UWP, iOS, Android, Backend]
 - [DotNetRu App](https://github.com/DotNetRu/App): .NET Russian user-group application [ Forms: [iOS](https://itunes.apple.com/us/app/dotnetru/id1293895734?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.dotnetru.droid)]
+- [MeetupManager](https://github.com/jamesmontemagno/MeetupManager/): Meetup.com app to track users at events [ Forms: [iOS](https://itunes.apple.com/us/app/meetup-manager-for-organizers/id796213890?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.refractored.meetupmanager), [WP8](http://www.windowsphone.com/en-us/store/app/meetup-manager-for-organizers/38ef03e9-3dfe-4150-b797-5ec9ed81b8cd)]
 
 ## Media
 
