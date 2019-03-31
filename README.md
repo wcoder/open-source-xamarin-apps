@@ -20,6 +20,7 @@ Jump to
   - [Health](#health)
     - [Fitness](#fitness)
   - [Password](#password)
+  - [File Manager](#file-manager)
   - [Finance](#finance)
   - [Weather](#weather)
   - [Reading](#reading)
@@ -105,6 +106,12 @@ Jump to
 [back to top](#readme)
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for store, share, and sync sensitive data [ Forms: [iOS](https://itunes.apple.com/app/id1137397744), [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)]
+
+## File Manager
+
+[back to top](#readme)
+
+- [Camelotia](https://github.com/worldbeater/Camelotia): File manager for cloud storages [ Forms: Android | UWP | Avalonia: Windows, Linux, macOS ]
 
 ## Finance
 
