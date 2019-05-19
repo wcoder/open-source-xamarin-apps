@@ -13,6 +13,7 @@ Jump to
   - [Computer Vision](#computer-vision)
   - [Event](#event)
   - [Media](#media)
+  - [UI/UX](#ui-ux)
   - [Shopping](#shopping)
   - [Communication](#communication)
   - [Timer](#timer)
@@ -65,6 +66,12 @@ Jump to
 
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
+
+## UI UX
+
+[back to top](#readme)
+
+- [Dezignspiration](https://github.com/johnxy84/Dezignspiration): Providing designers with a plethora of design quotes and also allowign them add more [[Android](https://play.google.com/store/apps/details?id=com.forefront.dezignspiration)]
 
 ## Shopping
 
