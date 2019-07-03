@@ -93,6 +93,7 @@ Jump to
 [back to top](#readme)
 
 - [GEO Alarm](https://github.com/foxanna/SimpleLocationAlarm): Alarm based your location [[Android](https://play.google.com/store/apps/details?id=simplelocationalarm.droid), WP]
+- [xUber](https://github.com/CrossGeeks/xUber): Uber Clone using Xamarin Forms
 
 ## Social
 
