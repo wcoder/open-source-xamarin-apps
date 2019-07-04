@@ -93,7 +93,6 @@ Jump to
 [back to top](#readme)
 
 - [GEO Alarm](https://github.com/foxanna/SimpleLocationAlarm): Alarm based your location [[Android](https://play.google.com/store/apps/details?id=simplelocationalarm.droid), WP]
-- [xUber](https://github.com/CrossGeeks/xUber): Uber Clone using Xamarin Forms
 
 ## Social
 
@@ -171,6 +170,7 @@ Jump to
 - [Xamarin.Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample): Netflix [ Forms: iOS, Android]
 - [YellowClone](https://github.com/ionixjunior/YellowClone): Yellow App [ Froms: iOS, Android]
 - [WhatsApp UI](https://github.com/egbakou/WhatsAppUI): WhatsApp [ Forms: iOS, Android]
+- [xUber](https://github.com/CrossGeeks/xUber): Uber [ Forms: iOS, Android] (Features: Maps, Location)
 
 ## Misc
 
