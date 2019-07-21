@@ -171,6 +171,7 @@ Jump to
 - [YellowClone](https://github.com/ionixjunior/YellowClone): Yellow App [ Froms: iOS, Android]
 - [WhatsApp UI](https://github.com/egbakou/WhatsAppUI): WhatsApp [ Forms: iOS, Android]
 - [xUber](https://github.com/CrossGeeks/xUber): Uber [ Forms: iOS, Android] (Features: Maps, Location)
+- [Xam Nubank](https://github.com/felipebaltazar/Xam-Nubank): Nubank [ Forms: iOS, Android]
 
 ## Misc
 
