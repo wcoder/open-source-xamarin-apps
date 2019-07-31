@@ -9,6 +9,7 @@ A collaborative list of open source Xamarin apps.
 Jump to
 
 - [Open Source Xamarin Apps](#open-source-xamarin-apps)
+  - [Auth](#auth)
   - [Business](#business)
   - [Computer Vision](#computer-vision)
   - [Event](#event)
@@ -38,6 +39,12 @@ Jump to
 
 - [Contributing](#contributing)
 - [License](#license)
+
+## Auth
+
+[back to top](#readme)
+
+- [Safe Authenticator](https://github.com/maidsafe/safe-authenticator-mobile): Is a cross-platform mobile application that can be used to create an account and login into the SAFE Network. [ Forms: iOS, Android]
 
 ## Business
 
