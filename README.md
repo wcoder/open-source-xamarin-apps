@@ -24,12 +24,12 @@ Jump to
   - [Password](#password)
   - [File Manager](#file-manager)
   - [Finance](#finance)
-  - [IoT](#iot) 
   - [Weather](#weather)
   - [Reading](#reading)
   - [Developer](#developer)
     - [Git](#git)
   - [Games](#games)
+  - [IoT](#iot) 
   - [Clones](#clones)
   - [Misc](#misc)
   - [Contributing](#contributing)
@@ -134,12 +134,6 @@ Jump to
 
 - [Money Fox](https://github.com/MoneyFox/MoneyFox): A way to make budgeting easy [ Forms: [UWP](https://www.microsoft.com/store/apps/9nblggh6ck9d), [Android](https://play.google.com/store/apps/details?id=com.applysolutions.moneyfox)]
 
-## IoT 
-
-[back to top](#readme)
-
-- [Where's my Kombucha? App](https://github.com/saamerm/WheresMyKombucha): Kombucha Tracker App uses Arduino style microcontroller called "Particle Photon" to connect mobile phones to the real world. ( Forms: iOS, Android)
-
 ## Weather
 
 [back to top](#readme)
@@ -170,6 +164,12 @@ Jump to
 [back to top](#readme)
 
 - [TicTacToe](https://github.com/jamesmontemagno/app-tictactoe): Simple Tic-tac-toe game [ Forms: iOS, Android]
+
+## IoT 
+
+[back to top](#readme)
+
+- [Where's my Kombucha? App](https://github.com/saamerm/WheresMyKombucha): Kombucha Tracker App uses Arduino style microcontroller called "Particle Photon" to connect mobile phones to the real world. ( Forms: iOS, Android)
 
 ## Clones
 
