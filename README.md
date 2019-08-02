@@ -138,7 +138,7 @@ Jump to
 
 [back to top](#readme)
 
-- [Where's my Kombucha? App](https://github.com/saamerm/WheresMyKombucha): Kombucha Tracker App ( Forms: iOS, Android)
+- [Where's my Kombucha? App](https://github.com/saamerm/WheresMyKombucha): Kombucha Tracker App uses Arduino style microcontroller called "Particle Photon" to connect mobile phones to the real world. ( Forms: iOS, Android)
 
 ## Weather
 
