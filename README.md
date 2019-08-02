@@ -24,6 +24,7 @@ Jump to
   - [Password](#password)
   - [File Manager](#file-manager)
   - [Finance](#finance)
+  - [IoT](#iot) 
   - [Weather](#weather)
   - [Reading](#reading)
   - [Developer](#developer)
