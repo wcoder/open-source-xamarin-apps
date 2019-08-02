@@ -73,6 +73,7 @@ Jump to
 
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
+- [Astropix](https://github.com/CarlosACepeda/Astropix): This simple app retrieves an 'Astronomic Picture of the Day' from NASA's API: APOD and sets it as your current wallpaper.
 
 ## Shopping
 
