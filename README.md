@@ -14,7 +14,6 @@ Jump to
   - [Computer Vision](#computer-vision)
   - [Event](#event)
   - [Media](#media)
-  - [Shopping](#shopping)
   - [Communication](#communication)
   - [Timer](#timer)
   - [Location](#location)
@@ -53,6 +52,8 @@ Jump to
 - [BikeSharing360](https://github.com/Microsoft/BikeSharing360_MobileApps): Is a fictitious example of a smart bike sharing system. [ Forms: UWP, Android, iOS, watchOS] + Backend
 - [SmartHotel360](https://github.com/Microsoft/SmartHotel360-Mobile): In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. [ Forms: UWP, iOS, Android] (Features: NFC, IoT, Maps etc.) + Backend
 - [Tailwind Traders Mobile](https://github.com/Microsoft/TailwindTraders-Mobile): Is a line-of-business application. [ Forms: iOS, Android] (Features: Azure, Camera, ML) + Backend
+- [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
+- [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
 
 ## Computer Vision
 
@@ -74,13 +75,6 @@ Jump to
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
 - [DailyCat](https://github.com/markolazic88/DailyCat): High performance image gallery app [ Forms: iOS, Android]
-
-## Shopping
-
-[back to top](#readme)
-
-- [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
-- [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
 
 ## Communication
 
