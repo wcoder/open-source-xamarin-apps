@@ -72,6 +72,7 @@ Jump to
 
 [back to top](#readme) Image, video, audio, reading:
 
+- [Chameleon](https://github.com/BaseflowIT/Chameleon): Flexible media player [ Forms: [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1475255793), [Android](https://play.google.com/store/apps/details?id=com.baseflow.chameleon&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)]
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
 - [DailyCat](https://github.com/markolazic88/DailyCat): High performance image gallery app [ Forms: iOS, Android]
