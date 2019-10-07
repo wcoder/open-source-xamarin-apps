@@ -9,6 +9,7 @@ A collaborative list of open source Xamarin apps.
 Jump to
 
 - [Open Source Xamarin Apps](#open-source-xamarin-apps)
+  - [Auth](#auth)
   - [Business](#business)
   - [Computer Vision](#computer-vision)
   - [Event](#event)
@@ -18,6 +19,7 @@ Jump to
   - [Communication](#communication)
   - [Timer](#timer)
   - [Location](#location)
+  - [Social](#social)
   - [Health](#health)
     - [Fitness](#fitness)
   - [Password](#password)
@@ -39,6 +41,12 @@ Jump to
 - [Contributing](#contributing)
 - [License](#license)
 
+## Auth
+
+[back to top](#readme)
+
+- [Safe Authenticator](https://github.com/maidsafe/safe-authenticator-mobile): Is a cross-platform mobile application that can be used to create an account and login into the SAFE Network. [ Forms: iOS, Android]
+
 ## Business
 
 [back to top](#readme)
@@ -46,6 +54,8 @@ Jump to
 - [BikeSharing360](https://github.com/Microsoft/BikeSharing360_MobileApps): Is a fictitious example of a smart bike sharing system. [ Forms: UWP, Android, iOS, watchOS] + Backend
 - [SmartHotel360](https://github.com/Microsoft/SmartHotel360-Mobile): In this app guests and business travelers can book rooms and smart conference rooms as well as customize room temperature and lighting settings. [ Forms: UWP, iOS, Android] (Features: NFC, IoT, Maps etc.) + Backend
 - [Tailwind Traders Mobile](https://github.com/Microsoft/TailwindTraders-Mobile): Is a line-of-business application. [ Forms: iOS, Android] (Features: Azure, Camera, ML) + Backend
+- [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
+- [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
 
 ## Computer Vision
 
@@ -64,8 +74,10 @@ Jump to
 
 [back to top](#readme) Image, video, audio, reading:
 
+- [Chameleon](https://github.com/BaseflowIT/Chameleon): Flexible media player [ Forms: [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1475255793), [Android](https://play.google.com/store/apps/details?id=com.baseflow.chameleon&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)]
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
+- [DailyCat](https://github.com/markolazic88/DailyCat): High performance image gallery app [ Forms: iOS, Android]
 
 ## UI UX
 
@@ -99,6 +111,12 @@ Jump to
 [back to top](#readme)
 
 - [GEO Alarm](https://github.com/foxanna/SimpleLocationAlarm): Alarm based your location [[Android](https://play.google.com/store/apps/details?id=simplelocationalarm.droid), WP]
+
+## Social
+
+[back to top](#readme)
+
+- [TweetStation](https://github.com/migueldeicaza/TweetStation): MonoTouch based Twitter client [ [iOS](https://itunes.apple.com/app/id375611783) ]
 
 ## Health
 
@@ -168,7 +186,12 @@ Jump to
 - [KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper): Runkeeper [ Forms: iOS, Android]
 - [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter): Twitter [ Forms: iOS, Android]
 - [Xamarin.Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample): Netflix [ Forms: iOS, Android]
+- [YellowClone](https://github.com/ionixjunior/YellowClone): Yellow App [ Froms: iOS, Android]
 - [WhatsApp UI](https://github.com/egbakou/WhatsAppUI): WhatsApp [ Forms: iOS, Android]
+- [xUber](https://github.com/CrossGeeks/xUber): Uber [ Forms: iOS, Android] (Features: Maps, Location)
+- [Xam Nubank](https://github.com/felipebaltazar/Xam-Nubank): Nubank [ Forms: iOS, Android]
+- [PlayMusic](https://github.com/AlejandroRuiz/PlayMusicXamarinClone): Google Play Music [ Forms: iOS, Android]
+- [Tinder](https://github.com/markolazic88/SwipeCardView): Tinder clone and library [ Forms: iOS, Android]
 
 ## Misc
 
@@ -183,6 +206,7 @@ Jump to
 - [Nethereum.UI.Wallet.Sample](https://github.com/Nethereum/Nethereum.UI.Wallet.Sample): Cross-platform wallet example using Nethereum, Xamarin.Forms and MvvmCross [ Forms: macOS, UWP, iOS, Android]
 - [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
+- [Microsoft REEL](https://github.com/microsoft/recommenders_engine_example_layout): Cross-platform movie recommendation application. [ Forms: iOS, UWP]
 - [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
