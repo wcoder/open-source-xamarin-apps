@@ -177,6 +177,7 @@ Jump to
 - [Xam Nubank](https://github.com/felipebaltazar/Xam-Nubank): Nubank [ Forms: iOS, Android]
 - [PlayMusic](https://github.com/AlejandroRuiz/PlayMusicXamarinClone): Google Play Music [ Forms: iOS, Android]
 - [Tinder](https://github.com/markolazic88/SwipeCardView): Tinder clone and library [ Forms: iOS, Android]
+- [Duolingo](https://github.com/ionixjunior/XFAppDuolingoClone): Duolingo App [ Forms: iOS, Android] 
 
 ## Misc
 
