@@ -44,6 +44,7 @@ Jump to
 [back to top](#readme)
 
 - [Safe Authenticator](https://github.com/maidsafe/safe-authenticator-mobile): Is a cross-platform mobile application that can be used to create an account and login into the SAFE Network. [ Forms: iOS, Android]
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Is a free open-source two factor authentication app with backup support. [[Android](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)]
 
 ## Business
 
