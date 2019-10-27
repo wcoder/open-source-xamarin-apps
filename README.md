@@ -195,6 +195,7 @@ Jump to
 - [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown): Trip Countdown is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Microsoft REEL](https://github.com/microsoft/recommenders_engine_example_layout): Cross-platform movie recommendation application. [ Forms: iOS, UWP]
+- [HackerNews](https://github.com/brminnick/HackerNews): Displays the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence [ Forms: iOS, Android]
 - [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
