@@ -154,6 +154,7 @@ Jump to
 - [CodeHub](https://github.com/CodeHubApp/CodeHub): Browse & maintain GitHub repositories [[iOS](https://itunes.apple.com/app/id707173885)]
 - [Repository Stumble](https://github.com/thedillonb/RepoStumble): Helps you find new and exciting open source code on GitHub [[iOS](https://itunes.apple.com/app/id761416981)]
 - [GitIt](https://github.com/prajjwaldimri/GithubXamarin): Cross-platform application for GitHub [[UWP](https://www.microsoft.com/store/apps/9nblggh40hv7?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.prajjwal.gitit)]
+- [GitTrends](https://github.com/brminnick/GitTrends): Monitors the views and clones of your GitHub repositories [ Forms: iOS, Android]
 
 ## Games
 
