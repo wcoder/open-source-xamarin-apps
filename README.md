@@ -15,7 +15,6 @@ Jump to
   - [Event](#event)
   - [Media](#media)
   - [UI/UX](#ui-ux)
-  - [Shopping](#shopping)
   - [Communication](#communication)
   - [Timer](#timer)
   - [Location](#location)
@@ -84,13 +83,6 @@ Jump to
 [back to top](#readme)
 
 - [Dezignspiration](https://github.com/johnxy84/Dezignspiration): Providing designers with a plethora of design quotes and also allowign them add more [[Android](https://play.google.com/store/apps/details?id=com.forefront.dezignspiration)]
-
-## Shopping
-
-[back to top](#readme)
-
-- [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
-- [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
 
 ## Communication
 
