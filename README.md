@@ -188,6 +188,7 @@ Jump to
 [back to top](#readme)
 
 - [MALClient](https://github.com/Drutol/MALClient): Client application for MyAnimeList.net website [[UWP](https://www.microsoft.com/store/apps/9nblggh5f3bl?ocid=badge), [Android](https://play.google.com/store/apps/details?id=com.drutol.malclient)]
+- [Dragon Front Companion](https://github.com/BenReierson/DragonFrontCompanion): Client for the Dragon Front game. [ Forms: [iOS](https://itunes.apple.com/us/app/df-companion/id1181274447), [Android](https://play.google.com/store/apps/details?id=com.benreierson.dragonfrontcompanion), [UWP](https://www.microsoft.com/store/apps/9p9lfr99bfg7)]
 - [Acquaint](https://github.com/xamarinhq/app-acquaint): The app is a list of contacts with details and map [ Forms, Native: UWP, iOS, Android]
 - [LiveDisplay](https://github.com/CarlosACepeda/LiveDisplay): Application to control notifications and music directly on the lockscreen. [Android]
 - [Workout Wotch](https://github.com/kentcb/WorkoutWotch): Exercise programs dictated to you. [iOS]
