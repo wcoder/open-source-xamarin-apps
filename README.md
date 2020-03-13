@@ -200,6 +200,7 @@ Jump to
 - [Pulse Music](https://github.com/jsuarezruiz/PulseMusic): Pulse Music is a sample to show how to create goodlooking UI with SkiaSharp. [ Forms: iOS, Android]
 - [Microsoft REEL](https://github.com/microsoft/recommenders_engine_example_layout): Cross-platform movie recommendation application. [ Forms: iOS, UWP]
 - [HackerNews](https://github.com/brminnick/HackerNews): Displays the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence [ Forms: iOS, Android]
+- [FashionApp](https://github.com/devcrux/FashionApp): Design beautiful fashion app using Shell, BindableLayout, ControlTemplate and more [ Forms: iOS, Android]
 - [FlyMe](https://github.com/davidortinau/FlyMe): Sample app showcasing the use of Material Design and CollectionView within the new Shell container [ Forms: iOS, Android, UWP]
 - [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
