@@ -67,7 +67,7 @@ Jump to
 
 - [Conference Mobile App](https://github.com/xamarinhq/app-conference): Pre-build conference application [ Forms: UWP, iOS, Android, Backend]
 - [DotNetRu App](https://github.com/DotNetRu/App): .NET Russian user-group application [ Forms: [iOS](https://itunes.apple.com/us/app/dotnetru/id1293895734?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.dotnetru.droid)]
-- [MeetupManager](https://github.com/jamesmontemagno/MeetupManager/): Meetup.com app to track users at events [ Forms: [iOS](https://itunes.apple.com/us/app/meetup-manager-for-organizers/id796213890?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.refractored.meetupmanager), [WP8](http://www.windowsphone.com/en-us/store/app/meetup-manager-for-organizers/38ef03e9-3dfe-4150-b797-5ec9ed81b8cd)]
+- [MeetupManager](https://github.com/jamesmontemagno/MeetupManager/): Meetup.com app to track users at events [ Forms: [iOS](https://itunes.apple.com/us/app/meetup-manager-for-organizers/id796213890?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.refractored.meetupmanager), [WP8](https://www.windowsphone.com/en-us/store/app/meetup-manager-for-organizers/38ef03e9-3dfe-4150-b797-5ec9ed81b8cd)]
 
 ## Media
 
@@ -212,7 +212,7 @@ We are happy to receive [Pull Requests](https://github.com/wcoder/open-source-xa
 ## Share  
 > Like this project? Why not share to your friend :)  
 >   
-> <a href="https://twitter.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20%23Xamarin%20open%20source%20apps.%20Made%20by%20@evgeniypakalo.%20https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to twitter" style="width:100%"><img src="http://i.imgur.com/GlSWEr7.png" title="share to twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to facebook" style="width:100%"><img src="http://i.imgur.com/0evE2QJ.png" title="share to facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://plus.google.com/share?url=https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to google+" style="width:100%"><img src="http://i.imgur.com/zvDBPqj.png" title="share to google+"/></a>
+> <a href="https://twitter.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20%23Xamarin%20open%20source%20apps.%20Made%20by%20@evgeniypakalo.%20https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to twitter" style="width:100%"><img src="https://i.imgur.com/GlSWEr7.png" title="share to twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to facebook" style="width:100%"><img src="https://i.imgur.com/0evE2QJ.png" title="share to facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://plus.google.com/share?url=https://github.com/wcoder/open-source-xamarin-apps" target="_blank" title="share to google+" style="width:100%"><img src="https://i.imgur.com/zvDBPqj.png" title="share to google+"/></a>
 
 ## License
 
