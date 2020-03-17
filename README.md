@@ -77,6 +77,7 @@ Jump to
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
 - [DailyCat](https://github.com/markolazic88/DailyCat): High performance image gallery app [ Forms: iOS, Android]
+- [Xamarin TV](https://github.com/xamarin/app-xamarintv): Full-featured TV app demonstrating the dual-screen device capability for neo and duo devices. [ Forms: Android, UWP]
 
 ## Communication
 
