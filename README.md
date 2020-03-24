@@ -203,6 +203,7 @@ Jump to
 - [HackerNews](https://github.com/brminnick/HackerNews): Displays the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence [ Forms: iOS, Android]
 - [FashionApp](https://github.com/devcrux/FashionApp): Design beautiful fashion app using Shell, BindableLayout, ControlTemplate and more [ Forms: iOS, Android]
 - [FlyMe](https://github.com/davidortinau/FlyMe): Sample app showcasing the use of Material Design and CollectionView within the new Shell container [ Forms: iOS, Android, UWP]
+- [FocusOnXamarin](https://github.com/jsuarezruiz/FocusOnXamarin): NET Conf: Focus on Xamarin samples [ Forms: iOS, Android]
 - [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
