@@ -164,6 +164,7 @@ Jump to
 [back to top](#readme)
 
 - [TicTacToe](https://github.com/jamesmontemagno/app-tictactoe): Simple Tic-tac-toe game [ Forms: iOS, Android]
+- [Quarantine Bingo](https://github.com/codemillmatt/quarantine-bingo): Simple app that displays a bingo card. [ Forms: iOS, Android]
 
 ## IoT 
 
