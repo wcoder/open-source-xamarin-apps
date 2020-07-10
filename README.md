@@ -188,6 +188,7 @@ Jump to
 - [xUber](https://github.com/CrossGeeks/xUber): Uber [ Forms: iOS, Android] (Features: Maps, Location)
 - [Xam Nubank](https://github.com/felipebaltazar/Xam-Nubank): Nubank [ Forms: iOS, Android]
 - [PlayMusic](https://github.com/AlejandroRuiz/PlayMusicXamarinClone): Google Play Music [ Forms: iOS, Android]
+- [SoundCloudClone](https://github.com/ionixjunior/SoundCloudClone): SoundCloud [ Forms: iOS, Android]
 - [Tinder](https://github.com/markolazic88/SwipeCardView): Tinder clone and library [ Forms: iOS, Android]
 - [Duolingo](https://github.com/ionixjunior/XFAppDuolingoClone): Duolingo App [ Forms: iOS, Android]
 - [Xamarin-CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic): Netease Cloud Music App [ Forms: iOS, Android]
