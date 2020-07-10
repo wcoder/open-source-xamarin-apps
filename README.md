@@ -131,6 +131,7 @@ Jump to
 
 [back to top](#readme)
 
+- [EMI Calculator](https://github.com/syncfusion/xamarin-showcase-emi-calculator): Equated Monthly Instalment Calculator (Demo) [ Forms: iOS, Android]
 - [Money Fox](https://github.com/MoneyFox/MoneyFox): A way to make budgeting easy [ Forms: [UWP](https://www.microsoft.com/store/apps/9nblggh6ck9d), [Android](https://play.google.com/store/apps/details?id=com.applysolutions.moneyfox)]
 
 ## Weather
