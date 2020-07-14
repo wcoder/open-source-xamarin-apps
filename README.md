@@ -12,6 +12,7 @@ Jump to
   - [Auth](#auth)
   - [Business](#business)
   - [Computer Vision](#computer-vision)
+  - [Education](#education)
   - [Event](#event)
   - [Media](#media)
   - [Communication](#communication)
@@ -63,6 +64,11 @@ Jump to
 
 - [Conference Vision](https://github.com/Microsoft/ConferenceVision): Prototype reference app showcasing: Xamarin.Forms 3.0, Computer Vision [ Forms: UWP, iOS, Android]
 - [AI Visual Provision](https://github.com/Microsoft/AIVisualProvision): Application uses Cognitive Services to detect Azure services using the phone camera [ Forms: iOS, Android]
+
+## Education
+
+[back to top](#readme)
+
 
 ## Event
 
