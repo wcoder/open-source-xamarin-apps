@@ -72,13 +72,15 @@ Jump to
 
 ## Event
 
+[back to top](#readme)
+
 - [Conference Mobile App](https://github.com/xamarinhq/app-conference): Pre-build conference application [ Forms: UWP, iOS, Android, Backend]
 - [DotNetRu App](https://github.com/DotNetRu/App): .NET Russian user-group application [ Forms: [iOS](https://itunes.apple.com/us/app/dotnetru/id1293895734?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.dotnetru.droid)]
 - [MeetupManager](https://github.com/jamesmontemagno/MeetupManager/): Meetup.com app to track users at events [ Forms: [iOS](https://itunes.apple.com/us/app/meetup-manager-for-organizers/id796213890?ls=1&mt=8), [Android](https://play.google.com/store/apps/details?id=com.refractored.meetupmanager), [WP8](https://www.windowsphone.com/en-us/store/app/meetup-manager-for-organizers/38ef03e9-3dfe-4150-b797-5ec9ed81b8cd)]
 
 ## Media
 
-[back to top](#readme) Image, video, audio, reading:
+[back to top](#readme)
 
 - [Chameleon](https://github.com/BaseflowIT/Chameleon): Flexible media player [ Forms: [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1475255793), [Android](https://play.google.com/store/apps/details?id=com.baseflow.chameleon&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)]
 - [gMusic](https://github.com/Clancey/gMusic): To provide the best Music Player for Google Play Music on iOS [[iOS](https://itunes.apple.com/app/id708727021)]
@@ -153,8 +155,6 @@ Jump to
 - [OneSync Reader](https://github.com/bares43/onesync-reader-app): OneSync Reader app [[Android](https://play.google.com/store/apps/details?id=cz.janbares.onesyncreader)]
 
 ## Developer
-
-[back to top](#readme)
 
 ### Git 
  
