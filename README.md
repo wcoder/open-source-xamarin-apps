@@ -69,6 +69,7 @@ Jump to
 
 [back to top](#readme)
 
+- [EduCATS](https://github.com/ilyalehchylin/educats-xamarin): Mobile client for the Leaning Management System EduCATS [ Forms: [iOS](https://testflight.apple.com/join/WQdDNznJ), [Android](https://play.google.com/apps/testing/by.bntu.educats)]
 
 ## Event
 
