@@ -209,6 +209,7 @@ Jump to
 - [Xamarin-CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic): Netease Cloud Music App [ Forms: iOS, Android]
 - [TNT GO](https://github.com/ionixjunior/TNTGoClone): A clone of the TNT GO app [ Forms: iOS, Android]
 - [Xam-Twitch](https://github.com/xamcat/xam-twitch): Twitch app clone [ Forms: iOS, Android]
+- [App-Peloton](https://github.com/jamesmontemagno/app-peloton): Peloton app clone [ Forms: iOS, Android ]
 
 ## Misc
 
