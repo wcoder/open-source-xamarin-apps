@@ -137,6 +137,7 @@ Jump to
 [back to top](#readme)
 
 - [Bitwarden](https://github.com/bitwarden/mobile): An easy way for store, share, and sync sensitive data [ Forms: [iOS](https://itunes.apple.com/app/id1137397744), [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)]
+- [NS Wallet](https://github.com/bykovme/nswallet): Offline password manager [ Forms: [iOS](https://itunes.apple.com/us/app/ns-wallet-password-manager/id869304848), [Android](https://play.google.com/store/apps/details?id=com.nyxbull.nswallet)]
 
 ## File Manager
 
