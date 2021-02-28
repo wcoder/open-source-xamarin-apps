@@ -59,6 +59,7 @@ Jump to
 - [Tailwind Traders Mobile](https://github.com/Microsoft/TailwindTraders-Mobile): Is a line-of-business application. [ Forms: iOS, Android] (Features: Azure, Camera, ML) + Backend
 - [My Shoppe](https://github.com/xamarinhq/app-myshoppe): Pre-built application & template enabling you to easily connect with your customers and manage your shops [ Forms: UWP, iOS, Android, Backend]
 - [Restaurant App](https://github.com/Jurabek/Restaurant-App): Restaurant App ( Forms: iOS, Android, WPF)
+- [Property Manager](https://github.com/microsoftgraph/xamarin-csharp-propertymanager-sample): Property management solution ( iOS, Android, UWP )
 
 ## Computer Vision
 
