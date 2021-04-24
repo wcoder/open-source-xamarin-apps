@@ -154,6 +154,7 @@ Jump to
 - [Expense Analysis](https://github.com/syncfusion/Xamarin-ExpenseAnalysis): App helps users track and analyze expenses [ Forms: iOS, Android, UWP, macOS]
 - [EMI Calculator](https://github.com/syncfusion/xamarin-showcase-emi-calculator): Equated Monthly Instalment Calculator (Demo) [ Forms: iOS, Android]
 - [Money Fox](https://github.com/MoneyFox/MoneyFox): A way to make budgeting easy [ Forms: [UWP](https://www.microsoft.com/store/apps/9nblggh6ck9d), [Android](https://play.google.com/store/apps/details?id=com.applysolutions.moneyfox)]
+- [Cryptallet](https://github.com/NAXAM/cryptallet-xamarin-forms): App to demonstrate how to work with Ethereum and Ethereum based token with Xamarin [ Forms: iOS, Android]
 
 ## Weather
 
