@@ -168,6 +168,7 @@ Jump to
 [back to top](#readme)
 
 - [OneSync Reader](https://github.com/bares43/onesync-reader-app): OneSync Reader app [[Android](https://play.google.com/store/apps/details?id=cz.janbares.onesyncreader)]
+- [Weekly Xamarin App](https://github.com/weeklyxamarin/WeeklyXamarin.mobile): A weekly round up of all the latest Xamarin news for developers. [ Forms: [iOS](https://apps.apple.com/us/app/weekly-xamarin/id1563006723), [Android](https://play.google.com/store/apps/details?id=com.weeklyxamarin.mobile)]
 
 ## Developer
 
