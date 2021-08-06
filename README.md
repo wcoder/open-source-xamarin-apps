@@ -127,6 +127,7 @@ Jump to
 [back to top](#readme)
 
 - [Covid Resistance](https://github.com/epam/covid-resistance-mobile): Digital health identity contact tracing mobile app that anonymously tracks risk exposure to COVID-19 [ Forms: iOS, Android]
+- [SocialQ](https://github.com/reactivemarbles/SocialQ): A social distancing queuing application [ Forms: iOS, Android]
 - [XFCovid19](https://github.com/Altevir/xamarinforms-covid19): Covid-19 Live [ Forms: iOS, Android]
 
 ### Fitness
