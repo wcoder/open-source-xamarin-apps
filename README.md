@@ -93,6 +93,7 @@ Jump to
 - [Kimono Designer](https://github.com/xamarin/KimonoDesigner): Editor SkiaSharp based graphic objects [ Forms: macOS, UWP, iOS, Android, tvOS, WPF]
 - [DailyCat](https://github.com/markolazic88/DailyCat): High performance image gallery app [ Forms: iOS, Android]
 - [Xamarin TV](https://github.com/xamarin/app-xamarintv): Full-featured TV app demonstrating the dual-screen device capability for neo and duo devices. [ Forms: Android, UWP]
+- [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts): A sample application showcasing .NET, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, and more. [ MAUI: Android, iOS, Windows, macOS, Web ]
 
 ## Communication
 
