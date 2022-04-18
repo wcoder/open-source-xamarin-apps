@@ -166,6 +166,7 @@ Jump to
 [back to top](#readme)
 
 - [XWeather](https://github.com/colbylwilliams/XWeather): Weather app [[iOS](https://itunes.apple.com/app/id1229497627), Android]
+- [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/): Weather app [ MAUI: iOS, Android, macOS, Windows]
 
 ## Reading
 
