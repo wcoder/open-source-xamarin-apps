@@ -1,8 +1,8 @@
-# Open Source Xamarin Apps
+# Open Source Xamarin & MAUI Apps
 
 ![Last update](https://img.shields.io/github/last-commit/wcoder/open-source-xamarin-apps.svg?label=last%20update&style=flat)
 
-A collaborative list of open source Xamarin apps.
+A collaborative list of open source Xamarin & MAUI apps.
 
 > If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/wcoder/open-source-xamarin-apps/compare).
 
