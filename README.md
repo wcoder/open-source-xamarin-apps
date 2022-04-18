@@ -15,6 +15,7 @@ Jump to
   - [Business](#business)
   - [Computer Vision](#computer-vision)
   - [Education](#education)
+    - [Calculator](#calculator)
   - [Event](#event)
   - [Media](#media)
   - [Communication](#communication)
@@ -73,6 +74,12 @@ Jump to
 [back to top](#readme)
 
 - [EduCATS](https://github.com/ilyalehchylin/educats-xamarin): Mobile client for the Leaning Management System EduCATS [ Forms: [iOS](https://apps.apple.com/by/app/educats/id1505738731), [Android](https://play.google.com/store/apps/details?id=by.bntu.educats)]
+
+### Calculator
+
+[back to top](#readme)
+
+- [MauiScientificCalculator](https://github.com/naweed/MauiScientificCalculator): Scientific Calculator app [ MAUI: iOS, Android, macOS]
 
 ## Event
 
