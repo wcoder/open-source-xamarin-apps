@@ -109,6 +109,7 @@ Jump to
 - [CrossChat](https://github.com/EgorBo/CrossChat-Xamarin.Forms): Chat application [ Forms: iOS, Android, WP, Backend]
 - [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
 - [UnofficialGitterApp](https://github.com/flagbug/UnofficialGitterApp/): Simple unofficial Android client for Gitter [ Forms: Android, WP8]
+- [Xamarin Chat SignalR](https://github.com/jihadkhawaja/xamarin-chat-signalr): Xamarin Forms Modern Chat Using SignalR ASP.NET [Android, iOS, UWP, Backend]
 
 ## Timer
 
