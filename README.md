@@ -235,6 +235,7 @@ Jump to
 - [TNT GO](https://github.com/ionixjunior/TNTGoClone): A clone of the TNT GO app [ Forms: iOS, Android]
 - [Xam-Twitch](https://github.com/xamcat/xam-twitch): Twitch app clone [ Forms: iOS, Android]
 - [App-Peloton](https://github.com/jamesmontemagno/app-peloton): Peloton app clone [ Forms: iOS, Android ]
+- [Outlook](https://github.com/matt-goldman/outlook): Clone of the Microsoft Outlook mobile UI [ MAUI: iOS, Android, MacCatalyst, UWP]
 
 ## Misc
 
