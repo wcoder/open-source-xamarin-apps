@@ -107,6 +107,7 @@ Jump to
 [back to top](#readme)
 
 - [CrossChat](https://github.com/EgorBo/CrossChat-Xamarin.Forms): Chat application [ Forms: iOS, Android, WP, Backend]
+- [JKChat](https://github.com/entdark/JKChat): Mobile application for chatting in and remote controlling "Jedi Knight: Jedi Academy" and "Jedi Knight II: Jedi Outcast" games [ iOS, Android ]
 - [SignalR Chat](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client): SignalR chat client [ Forms: iOS, Android]
 - [UnofficialGitterApp](https://github.com/flagbug/UnofficialGitterApp/): Simple unofficial Android client for Gitter [ Forms: Android, WP8]
 - [Xamarin Chat SignalR](https://github.com/jihadkhawaja/xamarin-chat-signalr): Xamarin Forms Modern Chat Using SignalR ASP.NET [ Forms: Android, iOS, UWP] + Backend
