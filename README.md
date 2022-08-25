@@ -217,6 +217,7 @@ Jump to
 
 [back to top](#readme)
 
+- [2048Maui](https://github.com/codeanees/2048Maui): Cloned version of classic 2048 game [ MAUI: iOS, Android, Windows]
 - [Moments](https://github.com/pierceboggan/Moments): Snapchat [ Forms: iOS, Android]
 - [KickassUI.Spotify](https://github.com/sthewissen/KickassUI.Spotify): Spotify [ Forms: iOS, Android]
 - [Instagram](https://github.com/adamped/Instagram): Instagram [ Forms: UWP, iOS, Android]
