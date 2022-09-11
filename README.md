@@ -74,6 +74,7 @@ Jump to
 [back to top](#readme)
 
 - [EduCATS](https://github.com/ilyalehchylin/educats-xamarin): Mobile client for the Leaning Management System EduCATS [ Forms: [iOS](https://apps.apple.com/by/app/educats/id1505738731), [Android](https://play.google.com/store/apps/details?id=by.bntu.educats)]
+- [Hangul Counter](https://github.com/davidortinau/HangulCounter): App for learning Korean numbers, counters, time, and ordinals. [ MAUI: iOS, Android, Windows, Tizen, macOS]
 
 ### Calculator
 
