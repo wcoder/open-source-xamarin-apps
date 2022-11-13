@@ -205,9 +205,10 @@ Jump to
 
 [back to top](#readme)
 
+- [Solitaire](https://github.com/AvaloniaUI/Solitaire): Card game [ Avalonia: iOS, Android, Web, macOS, Windows]
 - [TicTacToe](https://github.com/jamesmontemagno/app-tictactoe): Simple Tic-tac-toe game [ Forms: iOS, Android]
 - [Quarantine Bingo](https://github.com/codemillmatt/quarantine-bingo): Simple app that displays a bingo card. [ Forms: iOS, Android]
-- [Wordle-onia](https://github.com/AvaloniaUI/Wordle-onia): Port of Wordle app. [ Avalonia: iOS, Android, Web, Desktop]
+- [Wordle-onia](https://github.com/AvaloniaUI/Wordle-onia): Port of Wordle app. [ Avalonia: iOS, Android, Web, macOS, Windows]
 
 ## IoT 
 
