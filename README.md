@@ -50,6 +50,7 @@ Jump to
 
 - [Safe Authenticator](https://github.com/maidsafe/safe-authenticator-mobile): Is a cross-platform mobile application that can be used to create an account and login into the SAFE Network. [ Forms: iOS, Android]
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Is a free open-source two factor authentication app with backup support. [[Android](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)]
+- [DigiD](https://github.com/MinBZK/woo-besluit-broncode-digid-app): The easiest way to log in securely. [ Forms: [iOS](https://apps.apple.com/us/app/digid/id1208460960?ls=1), [Android](https://play.google.com/store/apps/details?id=nl.rijksoverheid.digid.pub&hl=en&gl=US)]
 
 ## Business
 
