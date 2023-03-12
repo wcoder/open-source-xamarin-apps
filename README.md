@@ -243,6 +243,7 @@ Jump to
 - [App-Peloton](https://github.com/jamesmontemagno/app-peloton): Peloton app clone [ Forms: iOS, Android ]
 - [Outlook](https://github.com/matt-goldman/outlook): Clone of the Microsoft Outlook mobile UI [ MAUI: iOS, Android, MacCatalyst, UWP]
 - [Draw Something](https://github.com/bijington/draw-something-clone): Clone of the drawing game “Draw Something”. [ MAUI: iOS, Android, MacCatalyst, UWP, Tizen] (Features: Drawing)
+- [Marvelous .NET MAUI](https://github.com/RadekVyM/MarvelousMAUI): Clone of the Wonderous app - a visual showcase of eight wonders of the world. [ MAUI: iOS, Android ] (Features: Blazor WebView Gallery)
 
 ## Misc
 
