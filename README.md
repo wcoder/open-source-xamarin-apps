@@ -123,6 +123,7 @@ Jump to
 - [Pomodoro](https://github.com/josearias210/Pomodoro): Simple pomodoro timer [[Android](https://play.google.com/store/apps/details?id=com.ariasantonio.pomodoro)]
 - [Toggl Timer](https://github.com/toggl/mobileapp): Timesheet tracker [[iOS](https://itunes.apple.com/tr/app/toggl/id1291898086), [Android](https://play.google.com/store/apps/details?id=com.toggl.giskard)]
 - [TimeTrackerTutorial](https://github.com/LetsCreateSeries/TimeTrackerTutorial): Simple time tracker [ Forms: iOS, Android]
+- [Caffeine Crash Cue](https://github.com/davidmbillie/CaffeineCrashCue): Calculate an estimated caffeine crash time, set a notification 20 minutes beforehand. [[Android](https://play.google.com/store/apps/details?id=com.davidmbillie.CaffeineCrashCue)]
 
 ## Location
 
