@@ -273,6 +273,7 @@ Jump to
 - [WeeklyXamarin.mobile](https://github.com/weeklyxamarin/WeeklyXamarin.mobile): Mobile Application for Weekly Xamarin [ Forms: iOS, Android, UWP]
 - [SpaceXGraphQL](https://github.com/mariusmuntean/SpaceXGraphQL): A playground app to show off the SpaceX GrapQL API [ Forms: iOS, Android]
 - [Bus Schedule](https://github.com/damiansikora85/BusSchedule): Bus timetable for local transport provider [ Forms: Android]
+- [Patient Appointment Manager](https://github.com/SyncfusionExamples/create-patient-appointment-manager-application-in-.NET-MAUI/): Sample that demonstrates patient appointment application based on Syncfusion components [ MAUI: iOS, Android]
 - [Xamarin.Forms Samples](https://github.com/xamarin/xamarin-forms-samples): Official sample apps built using the Xamarin.Forms framework.
 - [more samples...](https://github.com/xamarin/mobile-samples)
 
