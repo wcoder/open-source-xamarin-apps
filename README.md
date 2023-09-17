@@ -18,6 +18,7 @@ Jump to
     - [Calculator](#calculator)
   - [Event](#event)
   - [Media](#media)
+  - [UI/UX](#ui-ux)
   - [Communication](#communication)
   - [Timer](#timer)
   - [Location](#location)
@@ -104,6 +105,12 @@ Jump to
 - [Xamarin TV](https://github.com/xamarin/app-xamarintv): Full-featured TV app demonstrating the dual-screen device capability for neo and duo devices. [ Forms: Android, UWP]
 - [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts): A sample application showcasing .NET, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, and more. [ MAUI: Android, iOS, Windows, macOS, Web ]
 - [BMM Mobile](https://github.com/bcc-code/bmm-app): App for iOS and Android to consume audio content from BCC. [ MAUI: iOS, Android ]
+
+## UI UX
+
+[back to top](#readme)
+
+- [Dezignspiration](https://github.com/johnxy84/Dezignspiration): Providing designers with a plethora of design quotes and also allowign them add more [[Android](https://play.google.com/store/apps/details?id=com.forefront.dezignspiration)]
 
 ## Communication
 
